@@ -1,5 +1,5 @@
 # webrtc-src
-A copy of official webrtc source code.See the file `README.official.md` for detail.
+A copy of official webrtc source code. See the file `README.official.md` for detail.
 
 ### Original project code download link ###
 
